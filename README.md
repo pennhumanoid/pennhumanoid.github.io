@@ -2,15 +2,15 @@
 
 <img src="readme-banner.png" alt="Penn Embodied AI" width="780"/>
 
+<br><br>
 
-
-[![Website](https://img.shields.io/badge/Website-990000?logo=googlechrome&logoColor=white)](https://pennembodiedai.org)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white)](https://discord.gg/UacmnHrUp)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/company/pennhumanoid)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/pennembodiedai)
-[![X](https://img.shields.io/badge/X-000000?logo=x&logoColor=white)](https://x.com/pennembodiedai)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)](https://youtube.com/@pennembodiedai)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hello@pennembodiedai.org)
+[![Website](https://img.shields.io/badge/Website-990000?logo=googlechrome&logoColor=white&style=for-the-badge)](https://pennembodiedai.org)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/UacmnHrUp)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/company/pennhumanoid)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://instagram.com/pennembodiedai)
+[![X](https://img.shields.io/badge/X-000000?logo=x&logoColor=white&style=for-the-badge)](https://x.com/pennembodiedai)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white&style=for-the-badge)](https://youtube.com/@pennembodiedai)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:hello@pennembodiedai.org)
 
 A student-run robotics &amp; embodied-AI collective at the University of Pennsylvania.
 
