@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="readme-banner.png" alt="Penn Embodied AI" width="690"/>
+<img src="readme-banner.png" alt="Penn Embodied AI" width="695"/>
 
 <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" width="1" height="15" />
 
