@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="og-image.png" alt="Penn Embodied AI" width="660"/>
+<img src="readme-banner.png" alt="Penn Embodied AI" width="780"/>
 
 [![Website](https://img.shields.io/badge/Website-990000?logo=googlechrome&logoColor=white)](https://pennembodiedai.org)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white)](https://discord.gg/UacmnHrUp)
@@ -9,8 +9,6 @@
 [![X](https://img.shields.io/badge/X-000000?logo=x&logoColor=white)](https://x.com/pennembodiedai)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)](https://youtube.com/@pennembodiedai)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hello@pennembodiedai.org)
-
-**Intelligence that has a body.**
 
 A student-run robotics &amp; embodied-AI collective at the University of Pennsylvania.
 
