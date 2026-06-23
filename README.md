@@ -2,7 +2,7 @@
 
 <img src="readme-banner.png" alt="Penn Embodied AI" width="780"/>
 
-<br><br>
+<br>
 
 [![Website](https://img.shields.io/badge/Website-990000?logo=googlechrome&logoColor=white&style=for-the-badge)](https://pennembodiedai.org)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/UacmnHrUp)
