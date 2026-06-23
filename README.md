@@ -2,18 +2,16 @@
 
 <img src="readme-banner.png" alt="Penn Embodied AI" width="780"/>
 
-<!-- Adjust height="15" to tune the gap to the exact pixel -->
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="1" height="30"/>
+<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" width="1" height="15" />
 
-<a href="https://pennembodiedai.org"><img src="https://img.shields.io/badge/Website-990000?logo=googlechrome&logoColor=white" height="30"/></a>
-<a href="https://discord.gg/UacmnHrUp"><img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white" height="30"/></a>
-<a href="https://www.linkedin.com/company/pennhumanoid"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" height="30"/></a>
-<a href="https://instagram.com/pennembodiedai"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" height="30"/></a>
-<a href="https://x.com/pennembodiedai"><img src="https://img.shields.io/badge/X-000000?logo=x&logoColor=white" height="30"/></a>
-<a href="https://youtube.com/@pennembodiedai"><img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white" height="30"/></a>
-<a href="mailto:hello@pennembodiedai.org"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" height="30"/></a>
+[![Website](https://img.shields.io/badge/Website-990000?logo=googlechrome&logoColor=white&style=for-the-badge)](https://pennembodiedai.org)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/UacmnHrUp)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/company/pennhumanoid)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://instagram.com/pennembodiedai)
+[![X](https://img.shields.io/badge/X-000000?logo=x&logoColor=white&style=for-the-badge)](https://x.com/pennembodiedai)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white&style=for-the-badge)](https://youtube.com/@pennembodiedai)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:hello@pennembodiedai.org)
 
-<br><br>
 A student-run robotics &amp; embodied-AI collective at the University of Pennsylvania.
 
 </div>
