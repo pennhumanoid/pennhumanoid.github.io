@@ -4,7 +4,7 @@
 
 **Penn Embodied AI** is a student-run collective at the University of Pennsylvania building robots that perceive, learn, and act in the physical world.
 
-🔗 **[pennhumanoid.github.io](https://pennhumanoid.github.io)**
+🌐 **[pennembodiedai.org](https://pennembodiedai.org)**
 
 ---
 
@@ -33,9 +33,14 @@ Paper reading groups · build & sim nights in MuJoCo and Isaac Lab · semester-l
 
 We welcome builders and researchers of every level — whether you've trained policies on real robots or you've never touched a servo.
 
-- 💬 **Join our Discord:** _coming soon_
-- ✉️ **Email us:** _coming soon_
-- 🔗 **Follow along:** [LinkedIn](#) · [Instagram](#) · [X](#) · [YouTube](#)
+## Connect
+
+- 🌐 **Website** — [pennembodiedai.org](https://pennembodiedai.org)
+- ✉️ **Email** — [hello@pennembodiedai.org](mailto:hello@pennembodiedai.org)
+- 💼 **LinkedIn** — [Penn Embodied AI](https://www.linkedin.com/company/pennhumanoid)
+- 📸 **Instagram** — [@pennembodiedai](https://instagram.com/pennembodiedai)
+- 𝕏 **X / Twitter** — [@pennembodiedai](https://x.com/pennembodiedai)
+- ▶️ **YouTube** — [@pennembodiedai](https://youtube.com/@pennembodiedai)
 
 ---
 
