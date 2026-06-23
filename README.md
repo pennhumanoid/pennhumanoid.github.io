@@ -3,7 +3,7 @@
 <img src="readme-banner.png" alt="Penn Embodied AI" width="780"/>
 
 <!-- Adjust height="15" to tune the gap to the exact pixel -->
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="1" height="15"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="1" height="30"/>
 
 <a href="https://pennembodiedai.org"><img src="https://img.shields.io/badge/Website-990000?logo=googlechrome&logoColor=white" height="30"/></a>
 <a href="https://discord.gg/UacmnHrUp"><img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white" height="30"/></a>
