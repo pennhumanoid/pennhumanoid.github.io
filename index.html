@@ -195,11 +195,13 @@
   /* ---------- join ---------- */
   .join{background:#fff}
   .join-card{
-    background:var(--blue);color:#fff;padding:64px 56px;position:relative;overflow:hidden;
+    background:var(--blue);color:#fff;padding:64px 56px;position:relative;overflow:hidden;isolation:isolate;
   }
   .join-card::after{content:"";position:absolute;right:-60px;bottom:-60px;width:240px;height:240px;
-    border:40px solid var(--line-dark);}
-  .join-card .inner{position:relative;max-width:54ch}
+    border:40px solid var(--line-dark);z-index:1;pointer-events:none;}
+  .join-card .inner{position:relative;z-index:2;max-width:54ch}
+  .join-card .btn-ghost{color:#fff;border-color:rgba(255,255,255,.45)}
+  .join-card .btn-ghost:hover{background:#fff;color:var(--blue)}
   .join-card h2{font-family:var(--display);font-weight:600;font-size:clamp(26px,3.4vw,38px);letter-spacing:-.02em;line-height:1.1}
   .join-card p{color:#d6e0f2;margin-top:18px;font-size:18px}
   .join-cta{display:flex;flex-wrap:wrap;gap:14px;margin-top:34px}
@@ -245,7 +247,7 @@
     }
     .nav-links.open{transform:none}
     .nav-links a{padding:14px 0;width:100%;border-bottom:1px solid var(--line)}
-    .nav-links .btn{margin-top:14px}
+    .nav-links .btn{margin-top:16px;width:100%;padding:14px 20px;text-align:center;border-bottom:0;color:#fff}
     .nav-toggle{display:block}
     .focus-grid{grid-template-columns:1fr}
     .join-card{padding:44px 26px}
@@ -364,8 +366,7 @@
         <h2 id="join-h">Builders and researchers of every level are welcome.</h2>
         <p>Whether you've trained policies on real robots or you've never touched a servo, there's a place for you here. Come build with us.</p>
         <div class="join-cta">
-          <!-- TODO: replace # with your Discord invite and email -->
-          <a href="#" class="btn btn-red">Join the Discord</a>
+          <a href="https://discord.gg/UacmnHrUp" class="btn btn-red" target="_blank" rel="noopener">Join the Discord</a>
           <a href="mailto:hello@pennembodiedai.org" class="btn btn-ghost">Email us</a>
         </div>
         <div class="join-meta">
@@ -392,6 +393,7 @@
       </div>
       <!-- TODO: replace # with your real profile URLs -->
       <nav class="social" aria-label="Social links">
+        <a href="https://discord.gg/UacmnHrUp" target="_blank" rel="noopener">Discord</a>
         <a href="https://www.linkedin.com/company/pennhumanoid" target="_blank" rel="noopener">LinkedIn</a>
         <a href="https://instagram.com/pennembodiedai" target="_blank" rel="noopener">Instagram</a>
         <a href="https://x.com/pennembodiedai" target="_blank" rel="noopener">X</a>

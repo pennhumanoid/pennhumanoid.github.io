@@ -1,47 +1,77 @@
-# Penn Embodied AI
+<div align="center">
 
-### Intelligence that has a body.
+<img src="og-image.png" alt="Penn Embodied AI" width="660"/>
 
-**Penn Embodied AI** is a student-run collective at the University of Pennsylvania building robots that perceive, learn, and act in the physical world.
+[![Website](https://img.shields.io/badge/Website-990000?logo=googlechrome&logoColor=white)](https://pennembodiedai.org)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white)](https://discord.gg/UacmnHrUp)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/company/pennhumanoid)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/pennembodiedai)
+[![X](https://img.shields.io/badge/X-000000?logo=x&logoColor=white)](https://x.com/pennembodiedai)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)](https://youtube.com/@pennembodiedai)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hello@pennembodiedai.org)
 
-🌐 **[pennembodiedai.org](https://pennembodiedai.org)**
+**Intelligence that has a body.**
 
----
+A student-run robotics &amp; embodied-AI collective at the University of Pennsylvania.
 
-## Who we are
+</div>
 
-We bring together undergraduate and graduate students from across engineering, computer science, and beyond to study and build embodied intelligence — from humanoid locomotion and dexterous manipulation to sim-to-real reinforcement learning and tactile sensing.
+# About
+
+Penn Embodied AI brings together undergraduate and graduate students from across engineering, computer science, and beyond to study and build embodied intelligence — robots that perceive, learn, and act in the physical world.
 
 We meet to read papers, run experiments on real and simulated robots, share our work, and host the researchers pushing the field forward. Our goal is to give students a hands-on path into robotics research and a community that takes hardware seriously.
 
 **No prior robotics experience required — only curiosity and the willingness to build.**
 
-## What we work on
+# What We Work On
 
-- **Humanoid locomotion** — bipedal walking, balance, and whole-body control
-- **Dexterous manipulation** — hands and grippers that grasp, reorient, and use tools
-- **Sim-to-real RL** — training control policies in simulation and transferring them to hardware
-- **Tactile & force sensing** — giving robots the sense of touch that vision can't capture
-- **Vision-language-action models** — connecting perception and language to physical action
-- **Perception & world models** — internal models of the world that let robots plan and act
+| Area | Focus |
+| --- | --- |
+| **Humanoid locomotion** | Bipedal walking, balance, and whole-body control. |
+| **Dexterous manipulation** | Hands and grippers that grasp, reorient, and use tools. |
+| **Sim-to-real RL** | Training control policies in simulation and transferring them to physical hardware. |
+| **Tactile &amp; force sensing** | Giving robots the sense of touch that vision alone can't capture. |
+| **Vision-language-action** | Generalist models connecting perception and language to physical action. |
+| **Perception &amp; world models** | Internal models of the world that let robots plan and act. |
 
-## What members do
+# What Members Do
 
-Paper reading groups · build & sim nights in MuJoCo and Isaac Lab · semester-long research projects from simulation to working demo · guest talks from researchers and founders · trips to robotics conferences like IROS and CoRL · help finding your footing inside Penn's robotics labs.
+| Activity | Description |
+| --- | --- |
+| **Paper reading groups** | Work through the field's key results, from classic control to the latest VLA papers. |
+| **Build &amp; sim nights** | Hands-on sessions in MuJoCo, Isaac Lab, and on real hardware. |
+| **Research projects** | Small teams take an idea from simulation to a working demo over a semester. |
+| **Guest talks** | Researchers and founders share what they're building and how they got there. |
+| **Conference trips** | Travel together to robotics venues like IROS and CoRL. |
+| **Lab connections** | Help finding your footing inside Penn's robotics labs. |
 
-## Get involved
+# Join Us
 
 We welcome builders and researchers of every level — whether you've trained policies on real robots or you've never touched a servo.
 
-## Connect
+<div align="center">
 
-- 🌐 **Website** — [pennembodiedai.org](https://pennembodiedai.org)
-- ✉️ **Email** — [hello@pennembodiedai.org](mailto:hello@pennembodiedai.org)
-- 💼 **LinkedIn** — [Penn Embodied AI](https://www.linkedin.com/company/pennhumanoid)
-- 📸 **Instagram** — [@pennembodiedai](https://instagram.com/pennembodiedai)
-- 𝕏 **X / Twitter** — [@pennembodiedai](https://x.com/pennembodiedai)
-- ▶️ **YouTube** — [@pennembodiedai](https://youtube.com/@pennembodiedai)
+### [→ Join our Discord](https://discord.gg/UacmnHrUp)
+
+or reach us at [hello@pennembodiedai.org](mailto:hello@pennembodiedai.org)
+
+</div>
+
+# Connect
+
+| | |
+| --- | --- |
+| 🌐 Website | [pennembodiedai.org](https://pennembodiedai.org) |
+| 💬 Discord | [discord.gg/UacmnHrUp](https://discord.gg/UacmnHrUp) |
+| ✉️ Email | [hello@pennembodiedai.org](mailto:hello@pennembodiedai.org) |
+| 💼 LinkedIn | [Penn Embodied AI](https://www.linkedin.com/company/pennhumanoid) |
+| 📸 Instagram | [@pennembodiedai](https://instagram.com/pennembodiedai) |
+| 𝕏 X / Twitter | [@pennembodiedai](https://x.com/pennembodiedai) |
+| ▶️ YouTube | [@pennembodiedai](https://youtube.com/@pennembodiedai) |
 
 ---
 
-*A Student Organization at the University of Pennsylvania.*
+<div align="center">
+<sub>A Student Organization at the University of Pennsylvania.</sub>
+</div>
